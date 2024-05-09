@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    text-decoration: none;
+}
+body{
+    background-color:#FFE2DC;
+}
+.heading{
+    color:#125BA8;
+    
+}
